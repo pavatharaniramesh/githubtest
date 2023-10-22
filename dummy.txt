@@ -1,1 +1,2 @@
 This is a dummy file created for testing purpose.
+Now the file is changed.
